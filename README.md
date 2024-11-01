@@ -1,2 +1,19 @@
 # gregoire-badiche.github.io
-My "about" website for my Github page
+
+My personnal Github page
+
+# Grégoire Badiche
+
+## Developer & Stduent at amu and efrei
+
+I’m a passionate and curious student, currently learning about Mathematics in Aix-Marseille University and Computer Science at EFREI Paris. I am a cybersecurity enthusiast, outdoor adventurer and open-source fan. I aspire to work in cybersecurity, development, or embedded systems in the future. Feel free to check out my projects on Github, request my resume by mail or connect with me via Linkedin.
+
+## Contact
+
+[mailto:gregoire.badiche\[at\]univ-amu.fr](mailto:gregoire.badiche[at]univ-amu.fr)
+
+[mailto:gregoire.badiche\[at\]efrei.net](mailto:gregoire.badiche[at]efrei.net)
+
+[linkedin.com/in/gregoire-badiche](https://linkedin.com/in/gregoire-badiche)
+
+[github.com/gregoire-badiche](https://github.com/gregoire-badiche)
