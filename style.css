@@ -234,6 +234,7 @@ em {
 
     #paragraph {
         font-size: 16px;
+        text-align: left;
     }
 
     #links-grid {

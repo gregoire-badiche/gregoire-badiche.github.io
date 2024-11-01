@@ -4,9 +4,9 @@ My personnal Github page
 
 # Grégoire Badiche
 
-## Developer & Stduent at amu and efrei
+## Developer & stduent at EFREI and AMU
 
-I’m a passionate and curious student, currently learning about Mathematics in Aix-Marseille University and Computer Science at EFREI Paris. I am a cybersecurity enthusiast, outdoor adventurer and open-source fan. I aspire to work in cybersecurity, development, or embedded systems in the future. Feel free to check out my projects on Github, request my resume by mail or connect with me via Linkedin.
+I’m a passionate and curious student, currently learning about computer science at EFREI, and additionnaly Mathematics in Aix-Marseille University. I am a cybersecurity enthusiast, outdoor adventurer and open-source fan. I aspire to work in cybersecurity, development, or embedded systems in the future. Feel free to check out my projects on Github, request my resume by mail or connect with me via Linkedin.
 
 ## Contact
 
