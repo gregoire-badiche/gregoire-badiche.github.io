@@ -10,9 +10,9 @@ I’m a passionate and curious student, currently learning about computer scienc
 
 ## Contact
 
-[mailto:gregoire.badiche\[at\]univ-amu.fr](mailto:gregoire.badiche[at]univ-amu.fr)
-
 [mailto:gregoire.badiche\[at\]efrei.net](mailto:gregoire.badiche[at]efrei.net)
+
+[mailto:gregoire.badiche\[at\]etu.univ-amu.fr](mailto:gregoire.badiche[at]etu.univ-amu.fr)
 
 [linkedin.com/in/gregoire-badiche](https://linkedin.com/in/gregoire-badiche)
 
