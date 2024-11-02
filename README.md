@@ -1,6 +1,6 @@
 # gregoire-badiche.github.io
 
-My personnal Github page
+My personal Github page
 
 # Grégoire Badiche
 
