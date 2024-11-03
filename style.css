@@ -25,6 +25,7 @@ body {
 
 em {
     font-style: normal;
+    font-weight: bold;
     text-decoration: underline;
     text-decoration-color: rgb(0, 116, 116);
     text-decoration-thickness: 2px;
@@ -265,7 +266,7 @@ em {
     #links-grid-mobile {
         display: grid;
         text-align: center;
-        grid-template-columns: repeat(4, 1fr);
+        grid-template-columns: repeat(3, 1fr);
         gap: 24px;
     }
 
