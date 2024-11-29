@@ -2,7 +2,7 @@
 
 * {
     background-color: #FFFFFF;
-    color: #242526;
+    color: #1d2021;
 }
 
 html,
@@ -223,7 +223,7 @@ em {
         display: block;
         width: 200px;
         height: 0px;
-        border-top: 2px solid #242526;
+        border-top: 2px solid #1d2021;
         margin: 20px auto;
     }
 
@@ -282,7 +282,7 @@ em {
 
 @media (prefers-color-scheme: dark) {
     * {
-        background-color: #242526;
+        background-color: #1d2021;
         color: #E4E6EB;
     }
 
